@@ -1,2 +1,2 @@
-test.txt
-#test.txtt
+*.txt
+temp/
